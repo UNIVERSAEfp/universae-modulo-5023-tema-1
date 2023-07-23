@@ -2,6 +2,8 @@
 
 1. Prueba de aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.
 
+[![CI Builds](https://github.com/jabrena/universae-5023-tema-1/actions/workflows/build.yaml/badge.svg?branch=main)](https://github.com/jabrena/universae-5023-tema-1/actions/workflows/build.yaml)
+
 1.8 Creación de pruebas en Java
 
 ## Referencias
