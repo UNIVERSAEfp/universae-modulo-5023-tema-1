@@ -8,6 +8,19 @@
 
 > 1.8 Creación de pruebas en Java
 
+```bash
+mvn compile exec:java -Dexec.mainClass="com.universae.tema1.HelloWorld"
+mvn compile exec:java -Dexec.mainClass="com.universae.tema1.EntradaSalida"
+mvn compile exec:java -Dexec.mainClass="com.universae.tema1.IfElseExample"
+mvn compile exec:java -Dexec.mainClass="com.universae.tema1.SwitchExample"
+```
+
+## Construir el proyecto
+
+```bash
+mvn clean verify
+```
+
 ## Referencias
 
 - https://universae.com/
